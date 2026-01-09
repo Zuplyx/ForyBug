@@ -1,6 +1,6 @@
 # Apache Fory Serialization Bug
 
-This project serves to demonstrate an Issue in the Serialization of Apache Fory>0.12.3
+This project serves to demonstrate an [Issue](https://github.com/apache/fory/issues/3118) in the Serialization of Apache Fory>0.12.3
 
 ## Usage
 
